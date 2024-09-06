@@ -1,4 +1,4 @@
-# Merhaba, Ben [ELif CANLI] 👋
+# Merhaba, Ben ELif CANLI👋
 
 **Veri Analisti | Veri Bilimi Meraklısı | Python & SQL Uzmanı**
 
